@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@gilsonbeckman"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/gilsonbeckman/ha-climote",
+  "domain": "ha-climote",
+  "iot_class": "cloud_polling",
+  "name": "HA Climote",
+  "requirements": [],
+  "version": "1.0.0"
+}

@@ -1,2 +1,3 @@
-# ha-climote
-Home assistant custom component - Climote
+# HA Climote for Home Assistant
+
+## Installation
